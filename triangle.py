@@ -8,3 +8,6 @@ def perimetr(a, b, c):
     #Specified for calculating triangles perimetr
     return a + b + c
 
+def SideEqualityCheck(a, b, c):
+    return a == b == c
+
