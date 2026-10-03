@@ -9,5 +9,7 @@ def perimetr(a, b, c):
     return a + b + c
 
 def SideEqualityCheck(a, b, c):
+    #Takes three numbers, return one bool
+    #Specified for checking are sides equal to each other
     return a == b == c
 
